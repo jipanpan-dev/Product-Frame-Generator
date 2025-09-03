@@ -34,3 +34,7 @@ This application is built to run entirely on the client-side, meaning there is n
 *   **Tailwind CSS:** For styling the application.
 *   **IndexedDB:** For client-side storage of images.
 *   **HTML Canvas API:** For generating the final image.
+
+## AI Generated App
+
+This app has been built using **Google AI Studio**
