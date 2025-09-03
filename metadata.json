@@ -1,0 +1,5 @@
+{
+  "name": "Product Frame Generator",
+  "description": "An application to create promotional images with a title and a grid of products. Users can manage groups of products, upload images, and generate a downloadable PNG frame showcasing active products. All data is saved locally in the browser.",
+  "requestFramePermissions": []
+}
